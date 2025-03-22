@@ -26,7 +26,3 @@ Here are some of my favorite projects:
 ### 🔗 Connect with Me  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=github&logoColor=white)](https://github.com/ionutmantu8)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ionut-gabriel-mantu/)  
-
----
-
-Dacă vrei să mai adaugi ceva sau să modifici, spune-mi! 😊
