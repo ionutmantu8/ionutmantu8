@@ -10,7 +10,7 @@ I'm **Ionuț Gabriel Manțu**, a dedicated Computer Science student passionate a
 - 💬 Ask me about **C, C++, Java, Python, and software engineering best practices**  
 - 📫 How to reach me: **ionutgabrielmantu517@gmail.com**  
 - 😄 Pronouns: **he/him**  
-- ⚡ Fun fact: **I enjoy solving algorithmic challenges and building optimized solutions**  
+- ⚡ Fun fact: **I enjoy solving algorithmic challenges,software development,and building optimized solutions**  
 
 ### 🏆 Projects  
 Here are some of my favorite projects:  
